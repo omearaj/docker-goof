@@ -1,4 +1,5 @@
 # Docker Goof
+# New Comment
 
 Open a terminal at the `docker-goof` directory.
 
